@@ -21,7 +21,6 @@ var i = 1;
 	// TweenLite.to(h1, 2, { autoAlpha: 1, color: "green", ease: Bounce.easeOut, delay: 2 });
 	// TweenLite.to(layer8, 2, { fwidth: 60, ease: Elastic.easeOut });
 
-	
 
 
 	function onStart() {
